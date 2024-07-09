@@ -1,4 +1,4 @@
-Explanation for each problem: 
+#Explanation for each problem: 
 Question 1:
 Each row in the adjacency matrix of the Graph 'g' lists out each edge (tracks) connected to the index of that row in the form of 1s and 0s. So if we calculate the sums of each ith row of the matrix, we get the number of stations connected to the i'th station. On checking if sum is >=4, we increment the junctions variable.
 
